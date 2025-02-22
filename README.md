@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Senior Software Engineer - #React #Javascript #webcomponent #Python #AI <br/>
+I've been working as a software engineer for the last 10+ years.  <br/>
+Right now working as a Full Stack engineer <br/>
+🇲🇽
+
+-------
+[![My Skills](https://skillicons.dev/icons?i=react,js,jest,html,css,py,docker,mysql,aws,linux,figma)](https://skillicons.dev)
+
+
 <!--
 **rhinojosadev/rhinojosadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
