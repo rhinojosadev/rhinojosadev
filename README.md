@@ -2,6 +2,7 @@
 
 Senior Software Engineer - #React #Javascript #webcomponent #Python #AI <br/>
 I've been working as a software engineer for the last 10+ years.  <br/>
+I'm interested in architecture challenges, AI and front end technologies. <br/>
 Right now working as a Full Stack engineer <br/>
 🇲🇽
 
